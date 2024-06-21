@@ -48,3 +48,4 @@ The Rock-Paper-Scissors game is a classic hand game played between two players, 
 This description provides a comprehensive overview of the Rock-Paper-Scissors GUI-based application, detailing its features, installation instructions, and usage. It ensures that users and developers alike can easily understand and engage with the project.
 
  ## CodSoft
+This program is developed as a part of an internship task for @CodSoft.
